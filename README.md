@@ -1,5 +1,4 @@
 # MIDI-Hero
-Connect with a Launchpad, Piano, or even use your own keyboard to play!
 
 ![MIDIHero](https://user-images.githubusercontent.com/77464600/164816073-9adf05b7-214d-4a19-9cb9-aa7b7ad41a0f.PNG)
 
@@ -15,7 +14,7 @@ In order to create a new song you must enter the song name, artist of the song, 
 
 ## Record your song
 During the recording process, the audio file you uploaded will begin playing.
-As it plays you can use the device you chose and MidiHero record your inputs!
+As it plays you can use the device you chose and MidiHero will record your inputs!
 
 ![recording](https://user-images.githubusercontent.com/77464600/225025556-0df85e80-3a1e-4930-897e-3ae0bb4ea2e1.PNG)
 
