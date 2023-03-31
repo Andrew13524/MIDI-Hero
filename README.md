@@ -70,8 +70,8 @@ We need to calulate distance divided by time, so we know how long it takes the n
 
 With that being said, we need the distance of the action note to the spawn location of the deployable note. This is called the "Look Ahead".
 
-So, we take the value of the x cordinate where the action note is, 
-and the value of the x cordinate where the spawn location of the deployable note is.
+So, we take the value of the y cordinate where the action note is, 
+and the value of the y cordinate where the spawn location of the deployable note is.
 
 In this case we are taking the absolute value because it the first x coordinate is a negative value.
 (Example: If we didn't take the absolute value then -5 + 20 = 15, whereas Abs(-5) + Abs(20) = 25.)
